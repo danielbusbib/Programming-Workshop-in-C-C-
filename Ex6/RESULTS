@@ -1,0 +1,50 @@
+#Fill in your runtime results in this file
+#You should replace each T with the corresponding value
+
+#These values correspond to the time it takes (in ns) to insert apartments100 to all data structures
+Stack = 1640272521059482000
+AVL = 1640272521060484000
+Unsorted set = 1640272521060484000
+
+#These values correspond to the time it takes (in ns) to insert apartments1000 to all data structures
+Stack = 1640272885237298000
+AVL = 1640272885237298000
+Unsorted set = 1640272885239300000
+
+#These values correspond to the time it takes (in ns) to insert apartments10000 to all data structures
+Stack = 1640272375464019000
+AVL = 1640272375466008000
+Unsorted set = 1640272375484010000
+
+#These values correspond to the time it takes (in ns) to check if Apartment X is contained in using the general find function
+#the data structures initialized with apartments100
+Stack = 1640272521061484000
+AVL = 1640272521061484000
+Unsorted set = 1640272521061484000
+
+#These values correspond to the time it takes (in ns) to check if Apartment X is contained in using the general find function
+#the data structures initialized with apartments1000
+Stack = 1640272885240300000
+AVL = 1640272885240300000
+Unsorted set = 1640272885240300000
+
+#These values correspond to the time it takes (in ns) to check if Apartment X is contained in using the general find function
+#the data structures initialized with apartments10000
+Stack = 1640272375488012000
+AVL = 1640272375490008000
+Unsorted set = 1640272375490008000
+
+#These values correspond to the time it takes (in ns) to check if Apartment X is contained in using the unique find function
+#the data structures initialized with apartments100
+AVL = 1640272521061484000
+Unsorted set = 1640272521061484000
+
+#These values correspond to the time it takes (in ns) to check if Apartment X is contained in using the unique find function
+#the data structures initialized with apartments1000
+AVL = 1640272885240300000
+Unsorted set = 1640272885240300000
+
+#These values correspond to the time it takes (in ns) to check if Apartment X is contained in using the unique find function
+#the data structures initialized with apartments10000
+AVL = 1640272375490008000
+Unsorted set = 1640272375490008000
