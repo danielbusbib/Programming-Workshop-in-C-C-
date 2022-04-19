@@ -9,5 +9,5 @@ HUJI COURSE - 2021/2022
 | ex2 | comparing **Elman network** (basic RNN), **GRU cell**, and **MLP** with **restricted self-attention layer** in classifying movie reviews as positive or negative |
 | ex3 |     using **GAN** and conditional GAN (**cGAN**) to generate novel samples of the MNIST dataset  
 |
-| ex4 | Hash-set - void pointers, dynamic alloc                                                                                              |        
+| ex4 |  Hash-set - void pointers, dynamic alloc                                                                                           
  
