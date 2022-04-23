@@ -7,7 +7,7 @@ HUJI COURSE - 2021/2022
 | ----|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ex1 | Cipher encode/decode text to file                                                                       |
 | ex2 | Structs |
-| ex3 | 
+| ex3 | Operations On Matrix
 | ex4 |  Hash-set - void pointers, dynamic alloc                                                                                           
 | ex5 |  Neuron |
 | ex6 | AVL Tree - all the functions of AVL tree... |
